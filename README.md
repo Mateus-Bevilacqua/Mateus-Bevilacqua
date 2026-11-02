@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Mateus-Bevilacqua/Mateus-Bevilacqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Mateus Bevilacqua!
 
-Here are some ideas to get you started:
+- 🎓 I'm a Computer Science undergraduate student at the **Federal University of São Carlos (UFSCar)**, Brazil.
+- 💻 Interested in software development, algorithms, data structures, and web technologies.
+- 🌱 Always learning, exploring new technologies, and improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** C, Java, Python
+- **Web:** HTML
+- **Tools & Environment:** Git, GitHub, VS Code, Linux
+
